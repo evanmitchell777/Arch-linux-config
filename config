@@ -187,7 +187,7 @@ bar {
 	font pango:bitbuntu 11
       # status_command i3status
       	status_command /usr/bin/bumblebee-status \
-	-t iceberg-contrast \
+	-t iceberg-powerline \
 	-m battery datetime disk kernel
 }
 
